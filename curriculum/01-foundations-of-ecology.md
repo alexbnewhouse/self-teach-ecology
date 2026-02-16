@@ -3,6 +3,9 @@
 **Estimated time**: 80–100 hours  
 **Prerequisites**: Module 0  
 **Parallelizable with**: None (this is foundational)
+**Type**: Tier 1 core module  
+**Assessment**: Reading synthesis + coding notebooks + module essay  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

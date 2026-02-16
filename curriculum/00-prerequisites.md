@@ -1,6 +1,9 @@
 # Module 0: Prerequisites & Self-Assessment
 
 **Estimated time**: 10–30 hours (depending on background gaps)
+**Type**: Tier 0 bridge module  
+**Assessment**: Self-audit + reflection responses  
+**Benchmark mapping**: UC Davis | Yale | Duke | Imperial
 
 ---
 
@@ -74,6 +77,21 @@ Rate your comfort level with each topic (1 = no exposure, 3 = some coursework, 5
 - [NOAA Climate Education](https://www.climate.gov/teaching) — Climate systems primer
 - [Fundamentals of Physical Geography (free online textbook)](http://www.physicalgeography.net/) by M. Pidwirny
 - [Soil Science Simplified](https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils) — USDA soil science primer
+
+### If you scored 1–2 on Organismal and Field Foundations
+
+Prioritize these gap areas for non-biology entrants:
+
+1. Plant identification basics
+2. Vertebrate natural history basics
+3. Field sampling methods (quadrat, transect, repeated monitoring)
+
+Suggested resources:
+
+- [iNaturalist](https://www.inaturalist.org/) and [Seek](https://www.inaturalist.org/pages/seek_app) for field identification practice
+- [Merlin Bird ID](https://merlin.allaboutbirds.org/) and [BirdNET](https://birdnet.cornell.edu/) for avian identification
+- [QGIS Training Manual](https://docs.qgis.org/3.28/en/docs/training_manual/) for mapping and field-site documentation
+- [Field Methods Checklists](../resources/field-methods-checklists.md) for practical protocol setup
 
 ### Quantitative Skills Tune-Up (if needed)
 

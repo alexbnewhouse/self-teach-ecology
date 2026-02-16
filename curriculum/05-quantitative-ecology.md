@@ -3,6 +3,9 @@
 **Estimated time**: 60–80 hours  
 **Prerequisites**: Module 1 + Data Science background  
 **Parallelizable with**: Modules 3–4
+**Type**: Tier 1 core module  
+**Assessment**: Reproducible notebooks + quantitative synthesis project  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

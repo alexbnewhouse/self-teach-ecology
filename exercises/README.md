@@ -73,6 +73,12 @@ This directory contains all exercises from the curriculum modules, compiled for 
 | [8.3](../curriculum/08-conservation-policy-governance.md) | Stakeholder analysis | PSCI, governance | Governance analysis of a rewilding project |
 | [8.4](../curriculum/08-conservation-policy-governance.md) | Comparative politics | PSCI | Comparative conservation policy analysis |
 
+### Tier 2 and Assessment Extensions
+| Exercise | Type | Skills | Description |
+|----------|------|--------|-------------|
+| [Restoration Practicum](restoration-practicum.md) | Field/design | Monitoring, restoration | Standards-based restoration plan with monitoring protocol |
+| [Comprehensive Exam Prep](../assessments/comprehensive-exam-blueprint.md) | Synthesis | Integration, writing | Four-part master-level synthesis exam blueprint |
+
 ---
 
 ## Exercise Types

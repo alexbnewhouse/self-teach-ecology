@@ -3,6 +3,9 @@
 **Estimated time**: 40–60 hours  
 **Prerequisites**: Modules 1–2  
 **Parallelizable with**: Modules 3–6
+**Type**: Tier 1 core module  
+**Assessment**: Range-shift analysis + climate adaptation plan  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

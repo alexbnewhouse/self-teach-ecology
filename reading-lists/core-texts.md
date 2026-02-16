@@ -90,4 +90,24 @@ These are not textbooks but provide valuable context, inspiration, and broader p
 
 ---
 
+## Enhancement Additions (v1.1)
+
+### Systems Ecology and Complexity
+
+| Text | Module(s) | Notes |
+|------|-----------|-------|
+| Odum, H.T. (1994). *Ecological and General Systems*. University Press of Colorado. | Track: Systems | Systems ecology foundation |
+| Gunderson, L.H., & Holling, C.S. (Eds.). (2002). *Panarchy*. Island Press. | Track: Systems | Adaptive cycle and transformations |
+| Scheffer, M. (2009). *Critical Transitions in Nature and Society*. Princeton. | Track: Systems | Regime shifts and tipping points |
+
+### Restoration Ecology
+
+| Text | Module(s) | Notes |
+|------|-----------|-------|
+| Holl, K.D. (2020). *Primer of Ecological Restoration*. Island Press. | Track: Restoration | Practical introduction |
+| Palmer, M.A., Zedler, J.B., & Falk, D.A. (Eds.). (2016). *Foundations of Restoration Ecology* (2nd ed.). Island Press. | Track: Restoration | Graduate-level reference |
+| Hobbs, R.J., Higgs, E.S., & Hall, C.M. (Eds.). (2013). *Novel Ecosystems*. Wiley-Blackwell. | Track: Restoration | Central debate text |
+
+---
+
 → See also: [Key Journal Articles](journal-articles.md)

@@ -4,6 +4,27 @@ A curated collection of openly available datasets, software tools, and platforms
 
 ---
 
+## Method Pathways (Quick Start)
+
+Use these pathways to match tools and datasets to your analysis goals.
+
+| Pathway | Core Tools | Starter Datasets | Primary Modules/Tracks |
+|---|---|---|---|
+| Species distribution modeling | MaxEnt, maxnet, biomod2, ENMeval | GBIF, WorldClim, CHELSA | Module 4, Computational Ecology track |
+| Bayesian ecological inference | brms, Stan, PyMC | NEON, LTER, COMPADRE/COMADRE | Module 5, Computational Ecology track |
+| Remote sensing and change detection | Google Earth Engine, geemap, terra, sf | Landsat, Sentinel, Global Forest Watch | Module 4, Restoration track |
+| Ecological network analysis | igraph, bipartite, NetworkX | Web of Life, interaction datasets | Module 5, Systems track |
+| Restoration monitoring | QGIS, field protocols, NDVI workflows | Site surveys, photo points, SoilGrids | Restoration track, practicum |
+
+Related resources:
+
+- [Systems Ecology and Complexity track](../curriculum/tracks/systems-ecology-complexity.md)
+- [Restoration Ecology (Advanced) track](../curriculum/tracks/restoration-ecology-advanced.md)
+- [Computational Ecology track](../curriculum/tracks/computational-ecology.md)
+- [Assessment Rubrics](../assessments/rubrics.md)
+
+---
+
 ## Ecological Datasets
 
 ### Biodiversity & Species Data

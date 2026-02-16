@@ -3,6 +3,9 @@
 **Estimated time**: 60–80 hours  
 **Prerequisites**: Module 2  
 **Parallelizable with**: Modules 4–5 (after completing Module 2)
+**Type**: Tier 1 core module  
+**Assessment**: Case analysis + monitoring design + synthesis essay  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

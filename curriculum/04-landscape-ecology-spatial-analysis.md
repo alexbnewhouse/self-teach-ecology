@@ -3,6 +3,9 @@
 **Estimated time**: 60–80 hours  
 **Prerequisites**: Modules 1–2  
 **Parallelizable with**: Modules 3, 5
+**Type**: Tier 1 core module  
+**Assessment**: Spatial notebooks + conservation planning report  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

@@ -139,4 +139,22 @@ A curated list of seminal and contemporary journal articles organized by topic. 
 
 ---
 
+## Enhancement Additions (v1.1)
+
+### Systems Ecology and Regime Shifts
+
+61. Holling, C.S. (1973). Resilience and stability of ecological systems. *Annual Review of Ecology and Systematics*, 4, 1–23.
+62. Scheffer, M., et al. (2001). Catastrophic shifts in ecosystems. *Nature*, 413, 591–596.
+63. Scheffer, M., et al. (2009). Early-warning signals for critical transitions. *Nature*, 461, 53–59.
+64. Levin, S.A. (1998). Ecosystems and the biosphere as complex adaptive systems. *Ecosystems*, 1(5), 431–436.
+
+### Restoration Ecology and Standards
+
+65. Gann, G.D., et al. (2019). International principles and standards for the practice of ecological restoration. *Restoration Ecology*, 27(S1), S1–S46.
+66. Hobbs, R.J., Higgs, E., & Harris, J.A. (2009). Novel ecosystems: Implications for conservation and restoration. *Trends in Ecology & Evolution*, 24(11), 599–605.
+67. Murcia, C., et al. (2014). A critique of the "novel ecosystem" concept. *Trends in Ecology & Evolution*, 29(10), 548–553.
+68. Watson, C.D., et al. (2022). Global meta-analysis shows progress towards recovery of soil microbiota following revegetation. *Biological Conservation*, 272, 109592.
+
+---
+
 → See also: [Core Texts](core-texts.md)

@@ -3,6 +3,9 @@
 **Estimated time**: 60–80 hours  
 **Prerequisites**: Modules 2–3 + Political Science background  
 **Parallelizable with**: Modules 4–7
+**Type**: Tier 1 core module  
+**Assessment**: Policy analyses + comparative governance synthesis  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

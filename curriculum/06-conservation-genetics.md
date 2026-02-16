@@ -3,6 +3,9 @@
 **Estimated time**: 40–60 hours  
 **Prerequisites**: Modules 1–2 (plus basic genetics from Module 0)  
 **Parallelizable with**: Modules 3–5, 7
+**Type**: Tier 1 core module  
+**Assessment**: Simulation notebook + genetics management brief  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 

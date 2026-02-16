@@ -3,6 +3,9 @@
 **Estimated time**: 80–100 hours  
 **Prerequisites**: Module 1  
 **Parallelizable with**: None (required for Modules 3–8)
+**Type**: Tier 1 core module  
+**Assessment**: Applied analyses + policy/ecology synthesis essay  
+**Benchmark mapping**: UC Davis | Yale | Duke | ETH | Imperial
 
 ---
 
