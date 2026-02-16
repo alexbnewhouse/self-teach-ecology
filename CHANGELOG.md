@@ -16,6 +16,7 @@ All notable changes to this curriculum are documented here.
   - Computational Ecology
 - Restoration field-practice resources and practicum exercise.
 - Governance docs: CONTRIBUTING and CHANGELOG.
+- GitHub issue templates for resource requests and content corrections.
 
 ### Changed
 

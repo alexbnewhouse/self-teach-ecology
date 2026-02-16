@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Curriculum contribution guidelines
+    url: https://github.com/alexbnewhouse/self-teach-ecology/blob/main/CONTRIBUTING.md
+    about: Review contribution standards before opening an issue.
