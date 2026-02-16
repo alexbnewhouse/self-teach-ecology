@@ -68,14 +68,22 @@ The curriculum is organized into **core modules** (required) and **specializatio
 
 ## 🚀 Getting Started
 
-1. **Self-Assessment**: Review prerequisites and commitment required
-2. **Set Up Your Workspace**: 
-   - Create a GitHub repository for your work
-   - Set up R/Python environment (see [Setup Guide](guides/setup.md))
-   - Join online communities (see [Community](guides/community.md))
-3. **Begin Foundation Modules**: Start with Module 1
-4. **Document Your Journey**: Keep a learning journal, share projects publicly
-5. **Engage with Community**: Join discussions, peer review, collaborate
+Ready to begin? Follow these steps:
+
+1. **Read the [Getting Started Guide](guides/getting-started.md)** - Essential first steps and your first week plan
+2. **Review [Prerequisites & FAQ](guides/FAQ.md)** - Common questions answered
+3. **Set Up Your Environment** - Follow the [Setup Guide](guides/setup.md) for software and tools
+4. **Join the Community** - Connect with other learners using the [Community Guide](guides/community.md)
+5. **Start Module 1** - Begin with [Ecology Fundamentals](modules/01-ecology-fundamentals.md)
+
+**Quick Start Checklist:**
+- [ ] Read Getting Started Guide
+- [ ] Create your learning repository on GitHub
+- [ ] Install R/RStudio or Python
+- [ ] Join 2-3 online communities
+- [ ] Acquire Module 1 textbook
+- [ ] Set up study schedule (15-20 hrs/week)
+- [ ] Begin Module 1 reading
 
 ## 📖 Study Tips
 
