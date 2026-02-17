@@ -1,0 +1,95 @@
+{
+  "title": "Module 4 Landscape Ecology & Spatial Analysis Checkpoint",
+  "module": "Module 4: Landscape Ecology & Spatial Analysis",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "4.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Functional connectivity differs from structural connectivity because it emphasizes:",
+      "choices": [
+        "Organism movement through landscape resistance",
+        "Only map geometry",
+        "Only patch count",
+        "Only political boundaries"
+      ],
+      "answer": "Organism movement through landscape resistance",
+      "explanation": "Functional connectivity reflects movement behavior and matrix permeability."
+    },
+    {
+      "id": "4.2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select tools or approaches explicitly associated with corridor/connectivity analysis in this module.",
+      "choices": [
+        "Circuitscape",
+        "Least-cost path",
+        "Graph/network metrics",
+        "Linkage Mapper",
+        "ANOVA of trait means"
+      ],
+      "answers": [
+        "Circuitscape",
+        "Least-cost path",
+        "Graph/network metrics",
+        "Linkage Mapper"
+      ],
+      "explanation": "Connectivity work combines resistance surfaces, paths/circuits, and network analysis."
+    },
+    {
+      "id": "4.3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Give one limitation of NDVI as a biodiversity or ecosystem proxy.",
+      "contains_any": [
+        "saturation",
+        "not species specific",
+        "cloud",
+        "phenology confounding",
+        "sensor resolution",
+        "background soil"
+      ],
+      "min_matches": 1,
+      "explanation": "NDVI is useful but indirect and can saturate or miss community-level detail."
+    },
+    {
+      "id": "4.4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "MaxEnt is primarily used for which task?",
+      "choices": [
+        "Presence-only species distribution modeling",
+        "Genome assembly",
+        "Hydrological routing",
+        "Forest inventory sampling"
+      ],
+      "answer": "Presence-only species distribution modeling",
+      "explanation": "MaxEnt is a core SDM method for occurrence/background data."
+    },
+    {
+      "id": "4.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If habitat cover drops from 40% to 30% of a landscape, what is the absolute decline in percentage points?",
+      "answer": 10,
+      "tolerance": 0.01,
+      "explanation": "Absolute decline is 40 - 30 = 10 percentage points."
+    },
+    {
+      "id": "4.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one reason spatial autocorrelation can bias SDM evaluation.",
+      "contains_any": [
+        "inflated accuracy",
+        "non independent samples",
+        "overfitting",
+        "leakage",
+        "biased cross validation"
+      ],
+      "min_matches": 1,
+      "explanation": "Nearby points share environment, violating independence assumptions."
+    }
+  ]
+}

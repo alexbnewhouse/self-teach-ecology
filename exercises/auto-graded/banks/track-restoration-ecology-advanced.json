@@ -1,0 +1,79 @@
+{
+  "title": "Track Checkpoint: Restoration Ecology (Advanced)",
+  "module": "Track: Restoration Ecology (Advanced)",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "TR-1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "SER standards in this track are used primarily to support:",
+      "choices": [
+        "Restoration design and evaluation",
+        "Global climate model calibration",
+        "Taxonomic nomenclature only",
+        "Species trade enforcement"
+      ],
+      "answer": "Restoration design and evaluation",
+      "explanation": "SER framing guides reference conditions, interventions, and monitoring."
+    },
+    {
+      "id": "TR-2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select core mechanisms/debates named in the track sequence.",
+      "choices": [
+        "Succession",
+        "Soil microbiome recovery",
+        "Community assembly",
+        "Novel ecosystems vs historical fidelity",
+        "Quantum ecology"
+      ],
+      "answers": [
+        "Succession",
+        "Soil microbiome recovery",
+        "Community assembly",
+        "Novel ecosystems vs historical fidelity"
+      ],
+      "explanation": "These are central theoretical anchors for advanced restoration planning."
+    },
+    {
+      "id": "TR-3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Name one adaptive management element required in restoration monitoring design.",
+      "contains_any": [
+        "trigger",
+        "threshold",
+        "iteration",
+        "response rule",
+        "indicator"
+      ],
+      "min_matches": 1,
+      "explanation": "Adaptive programs link indicators and triggers to explicit management responses."
+    },
+    {
+      "id": "TR-4",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "A plan tracks 6 indicators and 4 are on target. What proportion is on target?",
+      "answer": 0.667,
+      "tolerance": 0.02,
+      "explanation": "4/6 ≈ 0.667."
+    },
+    {
+      "id": "TR-5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which required exercise is explicitly linked from this track?",
+      "choices": [
+        "Restoration practicum",
+        "Pleistocene park policy brief",
+        "Marine trophic web reconstruction",
+        "Genome-wide selection scan"
+      ],
+      "answer": "Restoration practicum",
+      "explanation": "The track requires completion of the restoration practicum deliverable."
+    }
+  ]
+}

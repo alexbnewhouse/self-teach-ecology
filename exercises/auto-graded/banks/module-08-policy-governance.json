@@ -1,0 +1,95 @@
+{
+  "title": "Module 8 Conservation Policy & Governance Checkpoint",
+  "module": "Module 8: Conservation Policy & Governance",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "8.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "The Kunming-Montreal Global Biodiversity Framework is associated with which convention process?",
+      "choices": [
+        "Convention on Biological Diversity (CBD)",
+        "Montreal Protocol on Ozone",
+        "UN Convention Against Corruption",
+        "World Trade Organization"
+      ],
+      "answer": "Convention on Biological Diversity (CBD)",
+      "explanation": "The GBF was adopted under the CBD COP process."
+    },
+    {
+      "id": "8.2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select examples of major global biodiversity governance instruments in this module.",
+      "choices": [
+        "CBD",
+        "CITES",
+        "Ramsar Convention",
+        "CMS",
+        "Basel III banking accords"
+      ],
+      "answers": [
+        "CBD",
+        "CITES",
+        "Ramsar Convention",
+        "CMS"
+      ],
+      "explanation": "These form the core legal/institutional architecture highlighted in Unit 8.2."
+    },
+    {
+      "id": "8.3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Name one reason international biodiversity commitments often underperform in practice.",
+      "contains_any": [
+        "enforcement",
+        "compliance",
+        "implementation gap",
+        "financing",
+        "capacity",
+        "political economy"
+      ],
+      "min_matches": 1,
+      "explanation": "Implementation barriers often include weak accountability, resources, and incentives."
+    },
+    {
+      "id": "8.4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "\"Fortress conservation\" is most closely associated with:",
+      "choices": [
+        "Exclusionary protected areas and displacement concerns",
+        "Community-led co-management",
+        "Open-access commons governance",
+        "Carbon accounting protocols"
+      ],
+      "answer": "Exclusionary protected areas and displacement concerns",
+      "explanation": "The critique centers on social justice and exclusion in conservation practice."
+    },
+    {
+      "id": "8.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "A protected area goal rises from 17% to 30%. What is the increase in percentage points?",
+      "answer": 13,
+      "tolerance": 0.01,
+      "explanation": "30 - 17 = 13 percentage points."
+    },
+    {
+      "id": "8.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one governance framework from political science that fits conservation analysis in this module.",
+      "contains_any": [
+        "iad",
+        "polycentric",
+        "advocacy coalition",
+        "multiple streams",
+        "collective action"
+      ],
+      "min_matches": 1,
+      "explanation": "The module explicitly encourages formal policy/institutional frameworks."
+    }
+  ]
+}

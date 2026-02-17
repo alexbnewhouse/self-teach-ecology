@@ -1,0 +1,95 @@
+{
+  "title": "Module 3 Rewilding Theory & Practice Checkpoint",
+  "module": "Module 3: Rewilding — Theory & Practice",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "3.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "The classic 3Cs framework in rewilding stands for:",
+      "choices": [
+        "Cores, Corridors, Carnivores",
+        "Climate, Carbon, Cropland",
+        "Control, Compliance, Conservation",
+        "Communities, Coasts, Connectivity"
+      ],
+      "answer": "Cores, Corridors, Carnivores",
+      "explanation": "Soulé and Noss framed continental-scale rewilding around the 3Cs."
+    },
+    {
+      "id": "3.2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select recognized rewilding variants discussed in the module.",
+      "choices": [
+        "Trophic rewilding",
+        "Passive rewilding",
+        "Translocation rewilding",
+        "Pleistocene rewilding",
+        "Monoculture intensification"
+      ],
+      "answers": [
+        "Trophic rewilding",
+        "Passive rewilding",
+        "Translocation rewilding",
+        "Pleistocene rewilding"
+      ],
+      "explanation": "The module distinguishes multiple conceptual and practical rewilding pathways."
+    },
+    {
+      "id": "3.3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Name one ecological mechanism by which apex predators can restructure ecosystems.",
+      "contains_any": [
+        "trophic cascade",
+        "mesopredator release",
+        "top down",
+        "herbivore pressure",
+        "behavioral landscape of fear"
+      ],
+      "min_matches": 1,
+      "explanation": "Predator reintroduction can alter prey behavior/abundance and cascade across trophic levels."
+    },
+    {
+      "id": "3.4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which case is often central in debates over trophic cascade evidence in rewilding?",
+      "choices": [
+        "Yellowstone wolf reintroduction",
+        "Arctic krill collapse",
+        "Deep-sea mining closures",
+        "Urban green roof expansion"
+      ],
+      "answer": "Yellowstone wolf reintroduction",
+      "explanation": "Yellowstone is a canonical empirical and methodological debate case."
+    },
+    {
+      "id": "3.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "A monitoring plan has milestones at years 5, 10, and 25. What is the mean milestone year?",
+      "answer": 13.33,
+      "tolerance": 0.05,
+      "explanation": "(5 + 10 + 25) / 3 = 13.33."
+    },
+    {
+      "id": "3.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one social or political controversy commonly raised in rewilding projects.",
+      "contains_any": [
+        "animal welfare",
+        "land rights",
+        "stakeholder conflict",
+        "farmer opposition",
+        "indigenous",
+        "justice"
+      ],
+      "min_matches": 1,
+      "explanation": "Rewilding outcomes depend on governance legitimacy and social consent as well as ecology."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Module 5 Quantitative Ecology Checkpoint",
+  "module": "Module 5: Quantitative Methods for Ecology",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "5.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "For overdispersed ecological count data, a common alternative to Poisson GLM is:",
+      "choices": [
+        "Negative binomial GLM",
+        "Ordinary least squares",
+        "Cox PH model",
+        "K-means clustering"
+      ],
+      "answer": "Negative binomial GLM",
+      "explanation": "Negative binomial handles extra-Poisson variance in counts."
+    },
+    {
+      "id": "5.2",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Why is imperfect detection a key issue in occupancy modeling?",
+      "contains_any": [
+        "false absence",
+        "detection probability",
+        "bias",
+        "underestimate occupancy",
+        "non detection"
+      ],
+      "min_matches": 1,
+      "explanation": "Species may be present but undetected, biasing naive occupancy estimates."
+    },
+    {
+      "id": "5.3",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which ordination method is typically preferred for non-linear community dissimilarity structures?",
+      "choices": [
+        "NMDS",
+        "PCA only",
+        "Linear regression",
+        "ANOVA"
+      ],
+      "answer": "NMDS",
+      "explanation": "NMDS works on rank dissimilarities and is robust for ecological community data."
+    },
+    {
+      "id": "5.4",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select common Bayesian model diagnostics in ecological workflows.",
+      "choices": [
+        "R-hat",
+        "Trace plots",
+        "Effective sample size",
+        "Posterior predictive checks",
+        "Confusion matrix only"
+      ],
+      "answers": [
+        "R-hat",
+        "Trace plots",
+        "Effective sample size",
+        "Posterior predictive checks"
+      ],
+      "explanation": "Convergence and fit diagnostics are central for credible Bayesian inference."
+    },
+    {
+      "id": "5.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If detection probability p = 0.6 for one survey, what is probability of missing a present species in two independent surveys?",
+      "answer": 0.16,
+      "tolerance": 0.01,
+      "explanation": "Miss probability per survey is 0.4, so two misses = 0.4^2 = 0.16."
+    },
+    {
+      "id": "5.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one scenario where a mechanistic model may outperform a pure ML model in ecology.",
+      "contains_any": [
+        "extrapolation",
+        "causal process",
+        "scenario",
+        "policy intervention",
+        "data sparse",
+        "interpretability"
+      ],
+      "min_matches": 1,
+      "explanation": "Mechanistic models can better represent process and extrapolation under novel conditions."
+    }
+  ]
+}

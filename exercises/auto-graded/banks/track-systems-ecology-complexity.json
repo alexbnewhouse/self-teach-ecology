@@ -1,0 +1,78 @@
+{
+  "title": "Track Checkpoint: Systems Ecology & Complexity",
+  "module": "Track: Systems Ecology and Complexity",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "TS-1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "A core systems-ecology focus is understanding:",
+      "choices": [
+        "Feedbacks and leverage points",
+        "Only species checklists",
+        "Only taxonomic naming",
+        "Only static equilibrium states"
+      ],
+      "answer": "Feedbacks and leverage points",
+      "explanation": "Systems analysis emphasizes dynamic feedback structure and intervention points."
+    },
+    {
+      "id": "TS-2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select required exercise themes listed in this track.",
+      "choices": [
+        "Regime-shift early warning analysis",
+        "Food-web robustness simulation",
+        "ODD-documented ABM",
+        "Sensitivity analysis",
+        "Single-species field sketch"
+      ],
+      "answers": [
+        "Regime-shift early warning analysis",
+        "Food-web robustness simulation",
+        "ODD-documented ABM",
+        "Sensitivity analysis"
+      ],
+      "explanation": "The track combines time-series warning signals, networks, and ABM standards."
+    },
+    {
+      "id": "TS-3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Name one indicator often associated with critical slowing down before regime shifts.",
+      "contains_any": [
+        "variance",
+        "autocorrelation",
+        "recovery rate",
+        "flickering"
+      ],
+      "min_matches": 1,
+      "explanation": "Early warning signals often involve rising variance/autocorrelation and slower recovery."
+    },
+    {
+      "id": "TS-4",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "A network has 20 species and 40 realized links. What is connectance C = L/(S^2)?",
+      "answer": 0.1,
+      "tolerance": 0.005,
+      "explanation": "C = 40 / (20^2) = 40 / 400 = 0.1."
+    },
+    {
+      "id": "TS-5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "The ODD protocol is mainly used to document:",
+      "choices": [
+        "Agent-based/individual-based models",
+        "Chemical assays",
+        "Satellite telemetry compression",
+        "Trade treaty negotiations"
+      ],
+      "answer": "Agent-based/individual-based models",
+      "explanation": "ODD is the standard for transparent ABM/IBM description."
+    }
+  ]
+}

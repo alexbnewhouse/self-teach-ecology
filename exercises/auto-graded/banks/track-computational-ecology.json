@@ -1,0 +1,80 @@
+{
+  "title": "Track Checkpoint: Computational Ecology",
+  "module": "Track: Computational Ecology",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "TC-1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "A core reproducibility requirement in this track is:",
+      "choices": [
+        "Environment file with package versions",
+        "Unversioned notebooks only",
+        "Manual rerun by memory",
+        "No metadata"
+      ],
+      "answer": "Environment file with package versions",
+      "explanation": "Reproducibility requires explicit environment/provenance capture."
+    },
+    {
+      "id": "TC-2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select recognized method pathways in this track.",
+      "choices": [
+        "Species distribution modeling",
+        "Bayesian ecology",
+        "Remote sensing workflows",
+        "Ecological network analysis",
+        "Synthetic organic chemistry"
+      ],
+      "answers": [
+        "Species distribution modeling",
+        "Bayesian ecology",
+        "Remote sensing workflows",
+        "Ecological network analysis"
+      ],
+      "explanation": "The track is organized around four computational pathways."
+    },
+    {
+      "id": "TC-3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Name one way to communicate uncertainty in conservation-relevant outputs.",
+      "contains_any": [
+        "credible interval",
+        "confidence interval",
+        "ensemble spread",
+        "scenario",
+        "sensitivity analysis",
+        "posterior"
+      ],
+      "min_matches": 1,
+      "explanation": "Decision use improves when uncertainty is explicitly quantified and reported."
+    },
+    {
+      "id": "TC-4",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If you complete 3 of 4 pathways, what fraction have you completed?",
+      "answer": 0.75,
+      "tolerance": 0.001,
+      "explanation": "3/4 = 0.75."
+    },
+    {
+      "id": "TC-5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which deliverable is explicitly required in this track?",
+      "choices": [
+        "Comparative methods memo",
+        "Field herbarium voucher set",
+        "Formal legal brief",
+        "Patent filing"
+      ],
+      "answer": "Comparative methods memo",
+      "explanation": "The track requires a methods memo and capstone-ready proposal."
+    }
+  ]
+}

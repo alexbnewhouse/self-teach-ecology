@@ -6,6 +6,33 @@ This directory contains all exercises from the curriculum modules, compiled for 
 
 ## Exercise Index
 
+## Interactive Auto-Graded Exercises (MVP)
+
+You can run objective and rubric-based interactive exercises with the local auto-grading tool:
+
+- Tool docs: [Auto-Graded Interactive Exercises](auto-graded/README.md)
+- Runner script: `auto-graded/autograde.py`
+- Sample bank: `auto-graded/banks/module-01-foundations.json`
+- Sample rubric: `auto-graded/rubrics/restoration-practicum.json`
+
+Quick start from repo root:
+
+```bash
+python3 exercises/auto-graded/autograde.py list-banks
+python3 exercises/auto-graded/autograde.py run --bank module-01-foundations.json --learner alex
+```
+
+Rubric check for restoration practicum drafts:
+
+```bash
+python3 exercises/auto-graded/autograde.py rubric \
+	--rubric restoration-practicum.json \
+	--submission exercises/restoration-practicum.md \
+	--learner alex
+```
+
+Results are saved to `exercises/auto-graded/results/results.jsonl`.
+
 ### Module 0: Prerequisites
 | Exercise | Type | Description |
 |----------|------|-------------|

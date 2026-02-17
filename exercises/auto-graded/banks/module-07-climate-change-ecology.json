@@ -1,0 +1,91 @@
+{
+  "title": "Module 7 Climate Change Ecology Checkpoint",
+  "module": "Module 7: Climate Change Ecology",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "7.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "A common triad for species responses to rapid climate change is:",
+      "choices": [
+        "Move, adapt, or die",
+        "Hibernate, migrate, or speciate",
+        "Hide, recover, or rebound",
+        "Expand, hybridize, or split"
+      ],
+      "answer": "Move, adapt, or die",
+      "explanation": "Range shift, adaptation, or decline is the classic framing."
+    },
+    {
+      "id": "7.2",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "What is a phenological mismatch? Give a brief definition.",
+      "contains_all": [
+        "timing",
+        "mismatch"
+      ],
+      "explanation": "Phenological mismatch occurs when interacting species shift timing at different rates."
+    },
+    {
+      "id": "7.3",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select conservation responses commonly discussed for climate adaptation.",
+      "choices": [
+        "Protect climate refugia",
+        "Build climate corridors",
+        "Assisted migration",
+        "Adaptive management",
+        "Ignore projection uncertainty"
+      ],
+      "answers": [
+        "Protect climate refugia",
+        "Build climate corridors",
+        "Assisted migration",
+        "Adaptive management"
+      ],
+      "explanation": "Adaptive climate conservation combines connectivity, refugia, and scenario-aware planning."
+    },
+    {
+      "id": "7.4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Climate velocity most directly describes:",
+      "choices": [
+        "How fast organisms must move to track climate conditions",
+        "Wind speed at weather stations",
+        "Rate of carbon market growth",
+        "Speed of glacier melt only"
+      ],
+      "answer": "How fast organisms must move to track climate conditions",
+      "explanation": "It translates temporal climate change into spatial displacement requirements."
+    },
+    {
+      "id": "7.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If a species shifts poleward from 44.2°N to 45.0°N, what is the latitudinal shift in degrees?",
+      "answer": 0.8,
+      "tolerance": 0.01,
+      "explanation": "45.0 - 44.2 = 0.8 degrees latitude."
+    },
+    {
+      "id": "7.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one way rewilding could contribute to climate mitigation.",
+      "contains_any": [
+        "carbon sequestration",
+        "forest regrowth",
+        "peatland",
+        "zoogeochemistry",
+        "soil carbon",
+        "blue carbon"
+      ],
+      "min_matches": 1,
+      "explanation": "Rewilding can alter carbon storage through vegetation, soils, and animal-mediated processes."
+    }
+  ]
+}

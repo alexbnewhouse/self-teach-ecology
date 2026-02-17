@@ -1,0 +1,93 @@
+{
+  "title": "Module 6 Conservation Genetics Checkpoint",
+  "module": "Module 6: Conservation Genetics",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "6.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which quantity most directly determines the rate of genetic drift?",
+      "choices": [
+        "Effective population size (Ne)",
+        "Biome area",
+        "Longitude",
+        "Taxonomic rank"
+      ],
+      "answer": "Effective population size (Ne)",
+      "explanation": "Drift strength scales inversely with effective population size."
+    },
+    {
+      "id": "6.2",
+      "type": "numeric",
+      "points": 2,
+      "prompt": "Using H_t = H_0(1 - 1/(2Ne))^t, with H_0 = 1, Ne = 50, t = 1, what is H_t?",
+      "answer": 0.99,
+      "tolerance": 0.005,
+      "explanation": "H_t = 1 * (1 - 1/100)^1 = 0.99."
+    },
+    {
+      "id": "6.3",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Define genetic rescue in one sentence.",
+      "contains_any": [
+        "gene flow",
+        "immigration",
+        "increase diversity",
+        "reduce inbreeding",
+        "small population"
+      ],
+      "min_matches": 1,
+      "explanation": "Genetic rescue introduces gene flow to reduce inbreeding and restore fitness."
+    },
+    {
+      "id": "6.4",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select molecular/genomic tools commonly used in conservation applications.",
+      "choices": [
+        "Microsatellites",
+        "SNPs",
+        "eDNA",
+        "Whole-genome sequencing",
+        "Plate tectonics"
+      ],
+      "answers": [
+        "Microsatellites",
+        "SNPs",
+        "eDNA",
+        "Whole-genome sequencing"
+      ],
+      "explanation": "These tools are foundational for monitoring diversity, structure, and detection."
+    },
+    {
+      "id": "6.5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "A severe short-term drop in population size is called:",
+      "choices": [
+        "Bottleneck",
+        "Speciation burst",
+        "Adaptive radiation",
+        "Clinal expansion"
+      ],
+      "answer": "Bottleneck",
+      "explanation": "Bottlenecks can sharply reduce allelic richness and increase drift effects."
+    },
+    {
+      "id": "6.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one risk to monitor when mixing source populations in translocations.",
+      "contains_any": [
+        "outbreeding depression",
+        "maladaptation",
+        "disease",
+        "genetic incompatibility"
+      ],
+      "min_matches": 1,
+      "explanation": "Introducing gene flow can help, but source mismatch can create fitness risks."
+    }
+  ]
+}

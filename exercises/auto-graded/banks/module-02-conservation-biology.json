@@ -1,0 +1,94 @@
+{
+  "title": "Module 2 Conservation Biology Checkpoint",
+  "module": "Module 2: Conservation Biology",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "2.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Soulé (1985) described conservation biology primarily as what kind of discipline?",
+      "choices": [
+        "Crisis discipline",
+        "Purely theoretical discipline",
+        "Laboratory discipline",
+        "Value-neutral discipline"
+      ],
+      "answer": "Crisis discipline",
+      "explanation": "Conservation biology is mission-driven and action-oriented under urgency."
+    },
+    {
+      "id": "2.2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select major drivers of biodiversity loss highlighted in this module.",
+      "choices": [
+        "Habitat loss",
+        "Overexploitation",
+        "Invasive species",
+        "Climate change",
+        "Universal stabilization"
+      ],
+      "answers": [
+        "Habitat loss",
+        "Overexploitation",
+        "Invasive species",
+        "Climate change"
+      ],
+      "explanation": "The module emphasizes the modern multi-driver extinction context."
+    },
+    {
+      "id": "2.3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "In one sentence, explain why effective population size (Ne) matters for conservation.",
+      "contains_any": [
+        "genetic drift",
+        "inbreeding",
+        "diversity",
+        "extinction risk",
+        "small population"
+      ],
+      "min_matches": 1,
+      "explanation": "Ne governs how quickly drift and inbreeding reduce adaptive potential."
+    },
+    {
+      "id": "2.4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "SLOSS refers to a debate in which domain?",
+      "choices": [
+        "Reserve design",
+        "DNA sequencing",
+        "Marine chemistry",
+        "Pollination networks"
+      ],
+      "answer": "Reserve design",
+      "explanation": "SLOSS asks whether one large or several small reserves are preferable."
+    },
+    {
+      "id": "2.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If a simulated population has 180 extinctions in 1000 Monte Carlo runs, what is estimated extinction probability?",
+      "answer": 0.18,
+      "tolerance": 0.005,
+      "explanation": "Estimated probability = 180 / 1000 = 0.18."
+    },
+    {
+      "id": "2.6",
+      "type": "short_text",
+      "points": 1,
+      "prompt": "Name one reason biodiversity agreements can fail in implementation.",
+      "contains_any": [
+        "enforcement",
+        "funding",
+        "political will",
+        "capacity",
+        "compliance gap"
+      ],
+      "min_matches": 1,
+      "explanation": "Implementation gaps often come from weak compliance mechanisms and capacity constraints."
+    }
+  ]
+}

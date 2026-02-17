@@ -1,0 +1,78 @@
+{
+  "title": "Module 0 Prerequisites Bridge Checkpoint",
+  "module": "Module 0: Prerequisites & Self-Assessment",
+  "pass_threshold": 0.7,
+  "questions": [
+    {
+      "id": "0.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which concept is central to evolutionary explanations in ecology?",
+      "choices": [
+        "Natural selection",
+        "Perfect equilibrium",
+        "Linear progress",
+        "Genetic stasis"
+      ],
+      "answer": "Natural selection",
+      "explanation": "Ecological and organismal traits are interpreted through selection and adaptation."
+    },
+    {
+      "id": "0.2",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select all biogeochemical cycles explicitly prioritized in this bridge module.",
+      "choices": [
+        "Carbon",
+        "Nitrogen",
+        "Phosphorus",
+        "Silicon"
+      ],
+      "answers": [
+        "Carbon",
+        "Nitrogen",
+        "Phosphorus"
+      ],
+      "explanation": "Carbon, nitrogen, and phosphorus are recurring foundations for later modules."
+    },
+    {
+      "id": "0.3",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Name one way political science can directly inform conservation analysis.",
+      "contains_any": [
+        "institutions",
+        "collective action",
+        "governance",
+        "policy",
+        "commons",
+        "iad"
+      ],
+      "min_matches": 1,
+      "explanation": "Institutional and governance analysis is a core bridge from PSCI to ecology."
+    },
+    {
+      "id": "0.4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Ostrom (2009) is used primarily to connect which domains?",
+      "choices": [
+        "Social and ecological systems",
+        "Genetics and paleontology",
+        "Remote sensing and hydrology",
+        "Physiology and molecular evolution"
+      ],
+      "answer": "Social and ecological systems",
+      "explanation": "The paper frames sustainability as social-ecological system interaction."
+    },
+    {
+      "id": "0.5",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If you rate 4 topics as [2, 3, 4, 5], what is the average self-assessment score?",
+      "answer": 3.5,
+      "tolerance": 0.01,
+      "explanation": "Mean = (2 + 3 + 4 + 5) / 4 = 3.5."
+    }
+  ]
+}

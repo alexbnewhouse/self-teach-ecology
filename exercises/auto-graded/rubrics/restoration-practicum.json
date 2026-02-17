@@ -1,0 +1,52 @@
+{
+  "title": "Restoration Practicum Draft Rubric Check",
+  "module": "Restoration Practicum",
+  "pass_threshold": 0.75,
+  "checks": [
+    {
+      "id": "rp-1",
+      "label": "Includes objective and site context",
+      "mode": "contains_all",
+      "tokens": ["objective", "site", "context"],
+      "weight": 1
+    },
+    {
+      "id": "rp-2",
+      "label": "Mentions degradation drivers",
+      "mode": "contains_any",
+      "tokens": ["degradation", "driver", "threat", "disturbance"],
+      "min_matches": 1,
+      "weight": 1
+    },
+    {
+      "id": "rp-3",
+      "label": "Defines indicators and thresholds",
+      "mode": "contains_all",
+      "tokens": ["indicator", "threshold"],
+      "weight": 1
+    },
+    {
+      "id": "rp-4",
+      "label": "Includes monitoring frequency",
+      "mode": "contains_any",
+      "tokens": ["monthly", "quarterly", "annual", "frequency", "sampling design"],
+      "min_matches": 1,
+      "weight": 1
+    },
+    {
+      "id": "rp-5",
+      "label": "Includes adaptive triggers or response rules",
+      "mode": "contains_any",
+      "tokens": ["adaptive", "trigger", "if then", "response rule"],
+      "min_matches": 1,
+      "weight": 1
+    },
+    {
+      "id": "rp-6",
+      "label": "Draft is substantial length",
+      "mode": "word_count_min",
+      "min_words": 1200,
+      "weight": 2
+    }
+  ]
+}

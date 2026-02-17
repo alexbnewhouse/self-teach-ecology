@@ -1,0 +1,77 @@
+{
+  "title": "Module 1 Foundations Checkpoint",
+  "module": "Module 1: Foundations of Ecology",
+  "pass_threshold": 0.7,
+  "questions": [
+    {
+      "id": "1.1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "In a logistic growth model, what does the parameter K represent?",
+      "choices": [
+        "Intrinsic growth rate",
+        "Carrying capacity",
+        "Initial population size",
+        "Predation coefficient"
+      ],
+      "answer": "Carrying capacity",
+      "explanation": "K is the carrying capacity: the upper population limit imposed by resources."
+    },
+    {
+      "id": "1.2",
+      "type": "numeric",
+      "points": 1,
+      "prompt": "If biodiversity proportions are [0.5, 0.3, 0.2], what is Shannon entropy H' (natural log) to two decimals?",
+      "answer": 1.03,
+      "tolerance": 0.03,
+      "explanation": "H' = -sum(p_i ln p_i) ≈ 1.03 for [0.5, 0.3, 0.2]."
+    },
+    {
+      "id": "1.3",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select all density-dependent processes.",
+      "choices": [
+        "Competition for resources",
+        "Disease transmission",
+        "Random weather shock",
+        "Territorial exclusion"
+      ],
+      "answers": [
+        "Competition for resources",
+        "Disease transmission",
+        "Territorial exclusion"
+      ],
+      "explanation": "Density-dependent mechanisms intensify with increasing population density."
+    },
+    {
+      "id": "1.4",
+      "type": "short_text",
+      "points": 2,
+      "prompt": "Briefly explain one ecological reason why metapopulations can persist even when local patches go extinct.",
+      "contains_any": [
+        "recolonization",
+        "rescue effect",
+        "dispersal",
+        "connectivity",
+        "source sink"
+      ],
+      "min_matches": 1,
+      "explanation": "Persistence often depends on recolonization/rescue across connected patches."
+    },
+    {
+      "id": "1.5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which metric is most directly interpreted as uncertainty in species identity for a random individual?",
+      "choices": [
+        "Species richness",
+        "Shannon diversity",
+        "Evenness",
+        "Beta diversity"
+      ],
+      "answer": "Shannon diversity",
+      "explanation": "Shannon diversity has an information-theoretic uncertainty interpretation."
+    }
+  ]
+}
