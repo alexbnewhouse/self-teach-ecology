@@ -24,7 +24,9 @@ This framework defines what beginner, proficient, and advanced performance looks
 |---|---|
 | Beginner | Describes policy frameworks and institutional actors |
 | Proficient | Applies governance frameworks (collective action, IAD, policy process) to case studies |
-| Advanced | Produces rigorous, evidence-based policy analysis integrating social and ecological outcomes |
+| Advanced | Produces rigorous, evidence-based policy analysis integrating social and ecological outcomes; engages with political ecology theory, justice dimensions, and quantitative governance analysis |
+
+**Enhanced by**: Political Ecology track (conservation-as-politics, green militarization, quantitative political ecology) and [PSCI-Ecology Concept Bridge](psci-ecology-bridge.md)
 
 ## Domain 4: Field and Applied Practice
 
@@ -42,6 +44,14 @@ This framework defines what beginner, proficient, and advanced performance looks
 | Proficient | Synthesizes multiple literatures into coherent argumentation |
 | Advanced | Produces publication-caliber writing with transparent methods and defensible claims |
 
+## Domain 6: Applied Ecological Product Development
+
+| Level | Descriptor |
+|---|---|
+| Beginner | Identifies market gaps and articulates ecological value propositions |
+| Proficient | Translates ecological models into user-facing product logic with validated data pipelines |
+| Advanced | Ships a working product with ecological rigor, user validation, and a sustainable revenue model |
+
 ## Evidence Portfolio Checklist
 
 - At least 6 reproducible computational notebooks
@@ -49,6 +59,8 @@ This framework defines what beginner, proficient, and advanced performance looks
 - At least 1 restoration or monitoring design document
 - Completed comprehensive exam blueprint responses
 - Capstone project repository with full reproducibility artifacts
+- Market landscape analysis and product concept document (Tier 4)
+- Working MVP with user testing documentation (Tier 4)
 
 ---
 

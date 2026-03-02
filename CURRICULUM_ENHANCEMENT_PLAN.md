@@ -263,11 +263,20 @@ Primary gaps relative to the enhancement brief:
 
 The revision cycle is complete when:
 
-1. Tier 0–3 architecture is visible in README and module navigation.
-2. Benchmark mapping document demonstrates coverage of MS-level expectations.
-3. Systems ecology/complexity and restoration tracks are fully published.
-4. Assessment blueprints and rubrics are integrated into progress tracking.
-5. Governance docs (`CONTRIBUTING`, `CHANGELOG`) are in place.
+1. ✅ Tier 0–3 architecture is visible in README and module navigation.
+2. ✅ Benchmark mapping document demonstrates coverage of MS-level expectations.
+3. ✅ Systems ecology/complexity and restoration tracks are fully published.
+4. ✅ Assessment blueprints and rubrics are integrated into progress tracking.
+5. ✅ Governance docs (`CONTRIBUTING`, `CHANGELOG`) are in place.
+
+**Post-1.1.0 additions (1.2.0 – 1.3.0):**
+
+6. ✅ Tier 4 (Applied Product Development): Modules 12–13 + product ideation worksheets.
+7. ✅ README overhauled as a full curriculum dashboard.
+8. ✅ Political Ecology specialization track with auto-graded exercise bank.
+9. ✅ ML/AI for Conservation pathway (Computational Ecology Pathway F).
+10. ✅ Career Transition Guide and PSCI-Ecology Concept Bridge resources.
+11. ✅ Full cross-integration: reading lists, competency framework, benchmark mapping, exam blueprint, exercises index, progress tracker, datasets-and-tools.
 
 ---
 

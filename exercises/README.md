@@ -106,6 +106,24 @@ Results are saved to `exercises/auto-graded/results/results.jsonl`.
 | [Restoration Practicum](restoration-practicum.md) | Field/design | Monitoring, restoration | Standards-based restoration plan with monitoring protocol |
 | [Comprehensive Exam Prep](../assessments/comprehensive-exam-blueprint.md) | Synthesis | Integration, writing | Four-part master-level synthesis exam blueprint |
 
+### Political Ecology Track
+| Exercise | Type | Skills | Description |
+|----------|------|--------|-------------|
+| [PE-A.1](../curriculum/tracks/political-ecology.md) | Writing | Political ecology | Narrative archaeology: deconstruct a conservation text using PE frameworks |
+| [PE-B.1](../curriculum/tracks/political-ecology.md) | Research | PSCI + PE | Conservation-conflict nexus: analyze green militarization or securitization case |
+| [PE-C.1](../curriculum/tracks/political-ecology.md) | Research | Political ecology | Political ecology of a restoration or rewilding project |
+| [PE-D.1](../curriculum/tracks/political-ecology.md) | Coding | Python, networks | Social-ecological network analysis using `igraph`/`NetworkX` |
+| [PE-D.2](../curriculum/tracks/political-ecology.md) | Coding | Python, NLP | Conservation text analysis: topic modeling + discourse framing with BERTopic |
+
+### Computational Ecology: Pathway F (ML/AI for Conservation)
+| Exercise | Type | Skills | Description |
+|----------|------|--------|-------------|
+| [F.1](../curriculum/tracks/computational-ecology.md) | Coding | Python, PyTorch | Camera trap ML pipeline: MegaDetector → fine-tuned classifier → occupancy input |
+| [F.2](../curriculum/tracks/computational-ecology.md) | Coding | Python, DL | Satellite change detection: Siamese networks or ConvLSTM on Planetary Computer |
+| [F.3](../curriculum/tracks/computational-ecology.md) | Coding | Python, NLP | NLP for conservation policy: topic modeling + NER + zero-shot classification |
+| [F.4](../curriculum/tracks/computational-ecology.md) | Coding | Python, audio | Bioacoustics: bird/bat classifier with opensoundscape/BirdNET (optional) |
+| [F.5](../curriculum/tracks/computational-ecology.md) | Project | Python, ML | Independent conservation ML project bridging PSCI + ecology |
+
 ---
 
 ## Exercise Types

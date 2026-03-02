@@ -142,7 +142,86 @@ Choose a protected area or rewilding site:
 
 ---
 
-## Unit 7.5: Climate Change, Rewilding, and Carbon
+## Unit 7.5: Climate Data Science — Working with Climate Model Output
+
+### Readings
+
+**Primary text**:
+> Dietze, M.B. (2017). *Ecological Forecasting*. Princeton University Press.
+> - Chapters 1–5, 14–16. Free lectures + code: https://ecoforecast.org/
+> - **This is the central text for connecting climate data science with ecological applications**
+
+> Bonan, G.B. (2019). *Climate Change and Terrestrial Ecosystem Modeling*. Cambridge University Press.
+> - Chapters 1–4, 17–20 — how GCMs represent ecosystem processes
+
+**Key papers**:
+> Eyring, V., Bony, S., Meehl, G.A., et al. (2016). Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6). *Geoscientific Model Development*, 9(5), 1937–1958.
+> - Understanding what CMIP6 is and how to use it
+
+> Reichstein, M., Camps-Valls, G., Stevens, B., et al. (2019). Deep learning and process understanding for data-driven Earth system science. *Nature*, 566(7743), 195–204.
+> - How deep learning can augment climate-ecological modeling
+
+> Loarie, S.R., Duffy, P.B., Hamilton, H., et al. (2009). The velocity of climate change. *Nature*, 462(7276), 1052–1055.
+
+### Key Concepts
+- CMIP6 model architecture: GCMs, ESMs, and SSP scenarios
+- Downscaling: statistical vs. dynamical approaches for ecological applications
+- Bias correction of climate model output
+- Climate velocity: spatial rate of temperature change
+- Working with NetCDF/Zarr climate data (xarray in Python, terra/stars in R)
+- Multi-model ensembles: why one model isn't enough
+- Cascading uncertainty: GCM → downscaling → SDM → management decision
+
+### Exercise 7.3: Climate Futures for an Ecosystem
+Using CMIP6 data (via NASA NEX-GDDP or Google Cloud):
+1. Select a region relevant to a conservation or rewilding question
+2. Download and process climate projections for 2 SSP scenarios (e.g., SSP2-4.5 and SSP5-8.5)
+3. Compute biologically relevant climate metrics (growing degree days, frost-free period, drought indices)
+4. Visualize multi-model agreement and uncertainty
+5. Discuss: What does model disagreement mean for conservation planning?
+
+**Tools**: Python (`xarray`, `intake-esm`, `cartopy`) or R (`terra`, `stars`, `climateR`)
+
+**Deliverable**: Analysis notebook with maps, uncertainty visualizations, and 1,000-word interpretation.
+
+---
+
+## Unit 7.6: Ecological Forecasting — Predicting Ecosystem Change
+
+### Readings
+
+> Dietze, M.B. (2017). *Ecological Forecasting*. Princeton University Press.
+> - Chapters 6–13 (state-space models, data assimilation, propagating uncertainty)
+
+> Dietze, M.C., Fox, A., Beck-Johnson, L.M., et al. (2018). Iterative near-term ecological forecasting: Needs, opportunities, and challenges. *Proceedings of the National Academy of Sciences*, 115(7), 1424–1432.
+
+> Clark, J.S., Carpenter, S.R., Barber, M., et al. (2001). Ecological forecasts: An emerging imperative. *Science*, 293(5530), 657–660.
+
+> White, E.P., Yenni, G.M., Taylor, S.D., et al. (2019). Developing an automated iterative near-term forecasting system for an ecological study. *Methods in Ecology and Evolution*, 10(3), 332–344.
+
+### Key Concepts
+- Near-term iterative ecological forecasting vs. long-term projections
+- State-space models: separating process error from observation error
+- Data assimilation: updating forecasts as new data arrive (Kalman filter, particle filter)
+- Propagating uncertainty through ecological models
+- Forecast evaluation: proper scoring rules, calibration, sharpness
+- The Ecological Forecasting Initiative (EFI) and NEON Forecasting Challenge
+
+### Exercise 7.4: Build an Ecological Forecast
+Participate in the [EFI/NEON Forecasting Challenge](https://projects.ecoforecast.org/neon4cast-ci/) or build your own forecast:
+1. Select a target (phenology, water quality, tick abundance, or beetle communities)
+2. Build a simple forecast model (can start with a null/climatology baseline)
+3. Generate probabilistic forecasts with uncertainty intervals
+4. Submit to the challenge OR evaluate against held-out data
+5. Iterate: Improve the model based on forecast performance
+
+**Tools**: R (`ecoforecastR`, `neon4cast` package) or Python (custom)
+
+**Deliverable**: Forecast submission or analysis notebook showing model development, forecast generation, and evaluation.
+
+---
+
+## Unit 7.7: Climate Change, Rewilding, and Carbon
 
 ### Readings
 
@@ -175,6 +254,9 @@ Choose a protected area or rewilding site:
 5. Summarize the scientific and ethical arguments for and against assisted migration.
 6. How might trophic rewilding contribute to climate change mitigation?
 7. What is meant by "conserving nature's stage," and how does it differ from species-focused conservation?
+8. What is the difference between a GCM and an ESM, and why does it matter for ecologists?
+9. Why is a multi-model ensemble better than a single climate model for conservation applications?
+10. Explain the iterative near-term forecasting cycle. How does it differ from a one-time projection?
 
 ---
 

@@ -29,11 +29,13 @@ Target: 4 total essays, 1,000–1,500 words each.
 
 1. Evaluate the 30x30 target through ecological effectiveness, governance feasibility, and equity implications.
 2. Compare two rewilding governance models and assess trade-offs among ecological outcomes, legitimacy, and social acceptance.
+3. *(New)* Using political ecology theory, analyze how power, justice, and institutional design shape the outcomes of a conservation or restoration initiative. Draw on at least two PE frameworks (e.g., Robbins’ thesis clusters, Peluso’s access theory, Ostrom’s SES framework) and integrate ecological evidence.
 
 ## Section C Prompts (choose 1)
 
 1. Design a defensible analytical strategy for imperfect-detection biodiversity data. Justify model class and uncertainty communication.
 2. Compare Bayesian and frequentist approaches for a conservation forecasting problem and justify which you would deploy.
+3. *(New)* You have access to camera trap imagery, satellite time series, and conservation policy documents for a protected area. Design an ML pipeline that integrates at least two of these data sources to assess conservation effectiveness. Discuss model choices, domain shift challenges, and how the output would inform governance decisions.
 
 ## Section D Required Prompt
 

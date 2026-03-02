@@ -108,6 +108,39 @@ A curated list of seminal and contemporary journal articles organized by topic. 
 59. Seddon, P.J., Armstrong, D.P., & Maloney, R.F. (2007). Developing the science of reintroduction biology. *Conservation Biology*, 21(2), 303–312.
 60. Chapron, G., et al. (2014). Recovery of large carnivores in Europe's modern human-dominated landscapes. *Science*, 346(6216), 1517–1519.
 
+## Climate Modeling, Ecological Forecasting & Data Science
+
+69. Dietze, M.C., Fox, A., Beck-Johnson, L.M., et al. (2018). Iterative near-term ecological forecasting: Needs, opportunities, and challenges. *Proceedings of the National Academy of Sciences*, 115(7), 1424–1432. https://doi.org/10.1073/pnas.1710231115
+70. Reichstein, M., Camps-Valls, G., Stevens, B., et al. (2019). Deep learning and process understanding for data-driven Earth system science. *Nature*, 566(7743), 195–204. https://doi.org/10.1038/s41586-019-0912-1
+71. Clark, J.S., Carpenter, S.R., Barber, M., et al. (2001). Ecological forecasts: An emerging imperative. *Science*, 293(5530), 657–660.
+72. Eyring, V., Bony, S., Meehl, G.A., et al. (2016). Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6). *Geoscientific Model Development*, 9(5), 1937–1958. https://doi.org/10.5194/gmd-9-1937-2016
+73. White, E.P., Yenni, G.M., Taylor, S.D., et al. (2019). Developing an automated iterative near-term forecasting system for an ecological study. *Methods in Ecology and Evolution*, 10(3), 332–344.
+74. Fer, I., et al. (2021). Beyond ecosystem modeling: A roadmap to community cyberinfrastructure for ecological data-model integration. *Global Change Biology*, 27(1), 13–26.
+75. Loarie, S.R., Duffy, P.B., Hamilton, H., et al. (2009). The velocity of climate change. *Nature*, 462(7276), 1052–1055. https://doi.org/10.1038/nature08649
+76. Harris, D.J., Taylor, S.D., & White, E.P. (2018). Forecasting biodiversity in breeding birds using best practices. *PeerJ*, 6, e4278.
+77. Thuiller, W., Münkemüller, T., Lavergne, S., et al. (2013). A road map for integrating eco-evolutionary processes into biodiversity models. *Ecology Letters*, 16(s1), 94–105.
+78. Ryo, M., Angelov, B., Suguru, H., et al. (2021). Explainable artificial intelligence enhances the ecological interpretability of black-box species distribution models. *Ecography*, 44(2), 199–212.
+
+## Political Ecology
+
+79. Blaikie, P., & Brookfield, H. (1987). Defining and debating the problem. In *Land Degradation and Society* (pp. 1–26). Methuen.
+80. Peluso, N.L. (1992). The political ecology of extraction and extractive reserves in East Kalimantan, Indonesia. *Development and Change*, 23(4), 49–76.
+81. Watts, M.J. (2000). Political ecology. In E. Sheppard & T. Barnes (Eds.), *A Companion to Economic Geography* (pp. 257–274). Blackwell.
+82. Duffy, R. (2014). Waging a war to save biodiversity: The rise of militarised conservation. *International Affairs*, 90(4), 819–834.
+83. Lunstrum, E. (2014). Green militarization: Anti-poaching efforts and the spatial contours of Kruger National Park. *Annals of the Association of American Geographers*, 104(4), 816–832.
+84. Büscher, B., & Ramutsindela, M. (2016). Green violence: Rhino poaching and the war to save Southern Africa's peace parks. *African Affairs*, 115(458), 1–22.
+85. Sayles, J.S., & Baggio, J.A. (2017). Social-ecological network analysis of scale mismatches in estuary watershed restoration. *PNAS*, 114(10), E1776–E1785.
+86. Bodin, Ö. (2017). Collaborative environmental governance: Achieving collective action in social-ecological systems. *Science*, 357(6352), eaan1114.
+
+## ML/AI for Conservation
+
+87. Tuia, D., Kellenberger, B., Beery, S., et al. (2022). Perspectives in machine learning for wildlife conservation. *Nature Communications*, 13, 792.
+88. Beery, S., Van Horn, G., & Perona, P. (2018). Recognition in terra incognita. *ECCV 2018*.
+89. Christin, S., Hervet, É., & Lecomte, N. (2019). Applications for deep learning in ecology. *Methods in Ecology and Evolution*, 10(10), 1632–1644.
+90. Silvestro, D., Goria, S., Sterner, T., & Antonelli, A. (2022). Improving biodiversity protection through artificial intelligence. *Nature Sustainability*, 5, 415–424.
+91. Jetz, W., McGeoch, M.A., Guralnick, R., et al. (2019). Essential biodiversity variables for mapping and monitoring species populations. *Nature Ecology & Evolution*, 3, 539–551.
+92. Ferraro, P.J., & Hanauer, M.M. (2014). Advances in measuring the environmental and social impacts of environmental programs. *Annual Review of Environment and Resources*, 39, 495–517.
+
 ---
 
 ## Key Journals to Follow
@@ -124,6 +157,12 @@ A curated list of seminal and contemporary journal articles organized by topic. 
 | *Ecological Applications* | Applied ecology | High |
 | *Environmental Science & Policy* | Science-policy interface | Medium-High |
 | *Restoration Ecology* | Ecological restoration | Medium |
+| *Ecology and Society* | Social-ecological systems, resilience | High |
+| *Global Environmental Change* | Human-environment interactions | Very High |
+| *Geoforum* | Political ecology, environmental governance | High |
+| *Journal of Peasant Studies* | Agrarian political ecology | High |
+| *Political Geography* | Political ecology, territory, nature | High |
+| *Nature Sustainability* | Conservation, sustainability science | Very High |
 | *Rewilding* (new journal, if established) | Emerging field | Emerging |
 | *Philosophical Transactions of the Royal Society B* | Thematic issues | High |
 

@@ -14,11 +14,12 @@ Tier 2 deepens your expertise through focused tracks. Choose combinations that s
 
 ---
 
-## Priority Tracks (New)
+## Priority Tracks
 
-1. [Systems Ecology and Complexity](tracks/systems-ecology-complexity.md)
-2. [Restoration Ecology (Advanced)](tracks/restoration-ecology-advanced.md)
-3. [Computational Ecology](tracks/computational-ecology.md)
+1. [Systems Ecology and Complexity](tracks/systems-ecology-complexity.md) — 45–70 hrs
+2. [Restoration Ecology (Advanced)](tracks/restoration-ecology-advanced.md) — 45–70 hrs
+3. [Computational Ecology](tracks/computational-ecology.md) — 80–120 hrs (includes Pathway F: ML/AI for Conservation)
+4. [Political Ecology](tracks/political-ecology.md) — 50–75 hrs (**new** — connects PSCI background to conservation governance, justice, and quantitative political ecology)
 
 ---
 
@@ -27,7 +28,6 @@ Tier 2 deepens your expertise through focused tracks. Choose combinations that s
 Use these as additional or substitute tracks if they better fit your interests:
 
 - Marine Conservation and Rewilding
-- Political Ecology and Environmental Anthropology
 - Wildlife Ecology and Management
 - Freshwater and Wetland Ecology
 - Conservation Technology and Data Science
@@ -49,14 +49,21 @@ If you pursue one of these domains, document:
 
 Best for regime shifts, forecasting, and network-driven capstones.
 
-## Bundle B: Policy-Relevant Restoration
+## Bundle B: PSCI → Data/ML Ecologist (Recommended)
+
+- Political Ecology
+- Computational Ecology (with Pathway F: ML/AI for Conservation)
+
+Best for leveraging a PSCI PhD toward conservation data science and political ecology research. See also [Career Transition Guide](../resources/career-transition-guide.md) and [PSCI-Ecology Bridge](../resources/psci-ecology-bridge.md).
+
+## Bundle C: Policy-Relevant Restoration
 
 - Restoration Ecology (Advanced)
-- Political ecology domain
+- Political Ecology
 
 Best for governance and implementation research.
 
-## Bundle C: Applied Rewilding Analytics
+## Bundle D: Applied Rewilding Analytics
 
 - Computational Ecology
 - Wildlife or marine domain

@@ -36,7 +36,20 @@ These are the backbone of the curriculum. Try to obtain at least the **Priority 
 | Franklin, J. (2010). *Mapping Species Distributions*. Cambridge. | 4 | SDM methods |
 | Zuur, A.F., et al. (2009). *Mixed Effects Models and Extensions in Ecology with R*. Springer. | 5 | Essential for ecological modeling |
 | Legendre, P., & Legendre, L. (2012). *Numerical Ecology* (3rd ed.). Elsevier. | 5 | The definitive multivariate ecology reference |
-| Robbins, P. (2019). *Political Ecology* (3rd ed.). Wiley-Blackwell. | Elective C | Essential if you choose this elective |
+| Robbins, P. (2019). *Political Ecology* (3rd ed.). Wiley-Blackwell. | Track: Political Ecology | The standard PE textbook (also listed in Enhancement Additions below) |
+| McElreath, R. (2020). *Statistical Rethinking* (2nd ed.). CRC Press. | 5 | Best modern Bayesian stats book; R and Stan code. [Lectures free on YouTube](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) |
+| Kéry, M., & Royle, J.A. (2016/2021). *Applied Hierarchical Modeling in Ecology* (Vols. 1–2). Academic Press. | 5 | Occupancy, abundance, and distribution modeling |
+| Wickham, H., Çetinkaya-Rundel, M., & Grolemund, G. (2023). *R for Data Science* (2nd ed.). O'Reilly. | 5 | Updated tidyverse-era R fundamentals. [Free online](https://r4ds.hadley.nz/) |
+
+### Priority 4 — Climate Modeling & Ecological Forecasting
+
+| Text | Module(s) | Notes |
+|------|-----------|-------|
+| Dietze, M.B. (2017). *Ecological Forecasting*. Princeton University Press. | 5, 7, Computational | **The** book for this interest — iterative forecasting, data assimilation, uncertainty propagation. [Code/lectures free](https://ecoforecast.org/) |
+| Bonan, G.B. (2019). *Climate Change and Terrestrial Ecosystem Modeling*. Cambridge University Press. | 7, Computational | How climate models represent ecosystems; bridges GCMs and ecological thinking |
+| Wikle, C.K., Zammit-Mangion, A., & Cressie, N. (2019). *Spatio-Temporal Statistics with R*. CRC Press. | 5, 7 | Modern spatio-temporal modeling; perfect complement to ecological forecasting. [Free online](https://spacetimewithr.org/) |
+| Bonan, G.B. (2016). *Ecological Climatology* (3rd ed.). Cambridge University Press. | 7 | How ecosystems and climate interact — deep biophysical treatment |
+| Cressie, N., & Wikle, C.K. (2011). *Statistics for Spatio-Temporal Data*. Wiley. | 5, 7 | More theoretical companion to the 2019 R book |
 
 ---
 
@@ -75,6 +88,10 @@ These are not textbooks but provide valuable context, inspiration, and broader p
 | CBD Kunming-Montreal Framework | https://www.cbd.int/gbf/ | Biodiversity policy framework |
 | SER Primer on Ecological Restoration | https://www.ser.org/page/SERDocuments | Restoration ecology primer |
 | IUCN Reintroduction Guidelines | https://portals.iucn.org/library/node/10386 | Reintroduction best practices |
+| EFI/NEON Forecasting Challenge | https://projects.ecoforecast.org/neon4cast-ci/ | Real-world ecological forecasting with NEON data |
+| Dietze Ecological Forecasting lectures | https://ecoforecast.org/ | Free lecture videos + code for Dietze (2017) |
+| *Spatio-Temporal Statistics with R* | https://spacetimewithr.org/ | Wikle et al. (2019), free online |
+| McElreath *Statistical Rethinking* lectures | https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus | Full lecture series, free on YouTube |
 
 ---
 
@@ -107,6 +124,23 @@ These are not textbooks but provide valuable context, inspiration, and broader p
 | Holl, K.D. (2020). *Primer of Ecological Restoration*. Island Press. | Track: Restoration | Practical introduction |
 | Palmer, M.A., Zedler, J.B., & Falk, D.A. (Eds.). (2016). *Foundations of Restoration Ecology* (2nd ed.). Island Press. | Track: Restoration | Graduate-level reference |
 | Hobbs, R.J., Higgs, E.S., & Hall, C.M. (Eds.). (2013). *Novel Ecosystems*. Wiley-Blackwell. | Track: Restoration | Central debate text |
+
+### Political Ecology
+
+| Text | Module(s) | Notes |
+|------|-----------|-------|
+| Robbins, P. (2019). *Political Ecology: A Critical Introduction* (3rd ed.). Wiley-Blackwell. | Track: Political Ecology | The standard PE textbook — canon and frameworks |
+| Peet, R., Robbins, P., & Watts, M. (Eds.). (2011). *Global Political Ecology*. Routledge. | Track: Political Ecology | Comprehensive reader |
+| Neumann, R.P. (2005). *Making Political Ecology*. Hodder Arnold. | Track: Political Ecology | Intellectual history of the field |
+| Büscher, B., & Fletcher, R. (2020). *The Conservation Revolution: Radical Ideas for Saving Nature Beyond the Anthropocene*. Verso. | Track: Political Ecology | Contemporary conservation critique |
+| Duffy, R. (2010). *Nature Crime: How We’re Getting Conservation Wrong*. Yale. | Track: Political Ecology | Conservation conflict — connects to PSCI violence background |
+
+### ML/AI for Conservation
+
+| Text | Module(s) | Notes |
+|------|-----------|-------|
+| Tuia, D., et al. (2022). Perspectives in machine learning for wildlife conservation. *Nature Communications*. | Track: Computational (Pathway F) | Comprehensive ML + conservation survey |
+| Christin, S., Hervet, É., & Lecomte, N. (2019). Applications for deep learning in ecology. *Methods in Ecology and Evolution*. | Track: Computational (Pathway F) | DL methods overview for ecologists |
 
 ---
 

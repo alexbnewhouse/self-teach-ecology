@@ -15,12 +15,16 @@ Use these pathways to match tools and datasets to your analysis goals.
 | Remote sensing and change detection | Google Earth Engine, geemap, terra, sf | Landsat, Sentinel, Global Forest Watch | Module 4, Restoration track |
 | Ecological network analysis | igraph, bipartite, NetworkX | Web of Life, interaction datasets | Module 5, Systems track |
 | Restoration monitoring | QGIS, field protocols, NDVI workflows | Site surveys, photo points, SoilGrids | Restoration track, practicum |
+| Climate-ecological modeling & forecasting | xarray, intake-esm, ecoforecastR, cartopy | CMIP6, ERA5, NEON, EFI Challenge | Module 7, Computational Ecology track |
+| ML/AI for conservation | PyTorch, YOLOv8, MegaDetector, torchgeo, transformers | LILA camera traps, Planetary Computer, Xeno-canto | Computational Ecology Pathway F |
+| Political ecology & SES analysis | NetworkX, igraph, BERTopic, sentence-transformers | CBD national reports, IUCN docs, PADDD | Political Ecology track |
 
 Related resources:
 
 - [Systems Ecology and Complexity track](../curriculum/tracks/systems-ecology-complexity.md)
 - [Restoration Ecology (Advanced) track](../curriculum/tracks/restoration-ecology-advanced.md)
 - [Computational Ecology track](../curriculum/tracks/computational-ecology.md)
+- [Political Ecology track](../curriculum/tracks/political-ecology.md)
 - [Assessment Rubrics](../assessments/rubrics.md)
 
 ---
@@ -36,13 +40,14 @@ Related resources:
 | **BioTIME** | https://biotime.st-andrews.ac.uk/ | Biodiversity time series database | 1, 5 |
 | **NEON** | https://data.neonscience.org/ | US National Ecological Observatory Network | 1, 4, 5 |
 | **eBird** | https://ebird.org/science | Bird occurrence data (citizen science) | 4, 5 |
-| **iNaturalist** | https://www.inaturalist.org/ | Community naturalist observations | 4, Elective F |
+| **iNaturalist** | https://www.inaturalist.org/ | Community naturalist observations | 4, Computational F |
 | **Map of Life** | https://mol.org/ | Species range and richness maps | 1, 4 |
 | **Living Planet Index** | https://www.livingplanetindex.org/ | Population trend data for vertebrates | 2, 7 |
 | **PREDICTS** | https://www.predicts.org.uk/ | Project database on biodiversity responses to land use | 2, 7 |
 | **TRY** | https://www.try-db.org/ | Global plant trait database | 1, 5 |
-| **LILA** | https://lila.science/ | Labeled camera trap image datasets | 5, Elective F |
+| **LILA** | https://lila.science/ | Labeled camera trap image datasets | 5, Computational F |
 | **Movebank** | https://www.movebank.org/ | Animal movement and tracking data | Elective D |
+| **Xeno-canto** | https://xeno-canto.org/ | Bird and wildlife sound recordings | Computational F |
 
 ### Spatial & Environmental Data
 
@@ -52,12 +57,26 @@ Related resources:
 | **CHELSA** | https://chelsa-climate.org/ | High-resolution climate data | 4, 7 |
 | **Copernicus Land Monitoring** | https://land.copernicus.eu/ | European land cover, vegetation, water | 4 |
 | **NLCD** | https://www.mrlc.gov/ | US National Land Cover Database | 4 |
-| **Global Forest Watch** | https://www.globalforestwatch.org/ | Near-real-time deforestation monitoring | 4, Elective F |
+| **Global Forest Watch** | https://www.globalforestwatch.org/ | Near-real-time deforestation monitoring | 4, Computational F |
 | **NASA Earthdata** | https://earthdata.nasa.gov/ | Satellite data (MODIS, Landsat, etc.) | 1, 4 |
 | **USGS EarthExplorer** | https://earthexplorer.usgs.gov/ | Landsat, aerial photos, DEMs | 4 |
 | **Copernicus Open Access Hub** | https://scihub.copernicus.eu/ | Sentinel satellite imagery | 4 |
 | **SoilGrids** | https://soilgrids.org/ | Global soil property maps | 1, 4 |
 | **HydroSHEDS** | https://www.hydrosheds.org/ | Hydrological data at global scale | Elective E |
+
+### Climate Model Output & Forecasting Data
+
+| Dataset | URL | Description | Modules |
+|---------|-----|-------------|---------|
+| **CMIP6 (ESGF)** | https://esgf-node.llnl.gov/projects/cmip6/ | Multi-model climate projections (SSP scenarios) — the core data for any climate-ecology modeling | 7, Computational |
+| **CMIP6 via Google Cloud** | https://console.cloud.google.com/marketplace/product/noaa-public/cmip6 | Zarr-formatted CMIP6 data, easy Python access via xarray | 7, Computational |
+| **NASA NEX-GDDP-CMIP6** | https://www.nasa.gov/nex/gddp | Bias-corrected, downscaled CMIP6 daily data — ready for ecological SDMs | 4, 7, Computational |
+| **CRU TS** | https://crudata.uea.ac.uk/cru/data/hrg/ | Observed climate gridded time series (1901–present) | 7 |
+| **ERA5 (Copernicus/CDS)** | https://cds.climate.copernicus.eu/ | High-resolution reanalysis climate data | 7, Computational |
+| **EFI/NEON Forecasting Challenge** | https://projects.ecoforecast.org/neon4cast-ci/ | Open ecological forecasting challenge with real NEON data | 5, 7, Computational |
+| **AppEEARS** | https://appeears.earthdatacloud.nasa.gov/ | Point-and-click extraction of NASA satellite & climate data | 4, 7 |
+| **PANGAEA** | https://www.pangaea.de/ | Earth system science data repository (paleo + modern) | 7 |
+| **PaleoClim** | https://www.paleoclim.org/ | High-resolution paleoclimate data for SDMs | 4, 7 |
 
 ### Protected Areas & Conservation Planning
 
@@ -106,18 +125,39 @@ Related resources:
 
 | Library | Purpose | Module |
 |---------|---------|--------|
-| `scikit-learn` | Machine learning | 4, 5, Elective F |
+| `scikit-learn` | Machine learning | 4, 5, Computational F |
 | `xgboost` | Gradient boosting | 4, 5 |
-| `tensorflow` / `pytorch` | Deep learning (camera traps, remote sensing) | Elective F |
+| `tensorflow` / `pytorch` | Deep learning (camera traps, remote sensing) | Computational F |
 | `rasterio` | Raster data I/O | 4 |
 | `geopandas` | Spatial dataframes | 4 |
 | `shapely` | Geometric operations | 4 |
 | `earthengine-api` | Google Earth Engine Python API | 4 |
 | `pylandstats` | Landscape metrics in Python | 4 |
-| `networkx` | Network/graph analysis | 4 |
+| `networkx` | Network/graph analysis | 4, Political Ecology |
 | `elapid` | Species distribution modeling | 4 |
 | `mesa` | Agent-based modeling | 5 |
 | `pystan` | Bayesian modeling | 5 |
+| `transformers` | Hugging Face NLP models (NER, classification, embeddings) | Computational F, Political Ecology |
+| `BERTopic` | Neural topic modeling | Computational F, Political Ecology |
+| `sentence-transformers` | Semantic embeddings for text analysis | Computational F, Political Ecology |
+| `torchgeo` | Geospatial deep learning (satellite imagery) | Computational F |
+| `opensoundscape` | Bioacoustic analysis | Computational F |
+| `planetary-computer` | Microsoft Planetary Computer SDK | Computational F |
+
+### Climate & Earth System Data Science (Python)
+
+| Library | Purpose | Module |
+|---------|---------|--------|
+| `xarray` | N-dimensional labeled arrays — the standard for climate model output | 7, Computational |
+| `xesmf` | Regridding climate data (ESMF backend) | 7, Computational |
+| `intake-esm` | Catalog and load CMIP6/CESM data from cloud stores | 7, Computational |
+| `cdsapi` | Copernicus Climate Data Store API (ERA5, seasonal forecasts) | 7, Computational |
+| `climateR` (R) | Unified access to climate datasets (GridMET, TerraClimate, PRISM) | 7 |
+| `cfgrib` | Read GRIB (climate model) files into xarray | 7 |
+| `cartopy` | Publication-quality map projections and climate data viz | 7, Computational |
+| `verde` | Spatial data processing and interpolation (Fatiando a Terra) | 5, 7 |
+| `pyPhenology` | Plant phenology modeling | 7, Computational |
+| `ecoforecastR` (R) | Companion package for Dietze (2017) *Ecological Forecasting* | 5, 7 |
 | `matplotlib` / `seaborn` | Data visualization | All |
 
 ### Conservation Planning Software
@@ -166,6 +206,17 @@ Related resources:
 | [Google Earth Engine Tutorials](https://developers.google.com/earth-engine/tutorials) | Google | Official GEE learning path |
 | [Introduction to GIS (QGIS)](https://docs.qgis.org/3.28/en/docs/training_manual/) | QGIS Docs | Official QGIS training |
 | [Data Carpentry: Ecology Lessons](https://datacarpentry.org/lessons/#ecology-workshop) | Data Carpentry | R-based ecological data analysis |
+
+### Climate Modeling & Ecological Forecasting
+
+| Course | Platform | Notes |
+|--------|----------|-------|
+| [EFI/NEON Forecasting Challenge Tutorials](https://projects.ecoforecast.org/neon4cast-ci/) | EFI | Hands-on ecological forecasting with real data |
+| [Dietze: Ecological Forecasting (Boston Univ.)](https://ecoforecast.org/) | Free online | Full lecture videos + code for the Dietze (2017) textbook |
+| [Pythia: Pangeo Foundations](https://foundations.projectpythia.org/) | Project Pythia | Python workflows for climate/earth system data (xarray, Dask, intake) |
+| [Pangeo CMIP6 Cookbook](https://projectpythia.org/cmip6-cookbook/) | Project Pythia | Hands-on: access, analyze, and visualize CMIP6 data in Python |
+| [NCAR Climate Data Analysis Tools](https://ncar.github.io/GeoCAT-examples/) | NCAR | Geoscience visualization and analysis via GeoCAT |
+| [Earth Lab: Earth Analytics](https://www.earthdatascience.org/) | CU Boulder | Free Python + earth/climate data science course |
 
 ---
 

@@ -301,4 +301,5 @@ Choose a specific ecosystem (e.g., a local wetland, forest, or coastal area):
 
 ---
 
-→ Next: [Module 3: Rewilding: Theory & Practice](03-rewilding-theory-practice.md)
+→ Next: [Module 3: Rewilding: Theory & Practice](03-rewilding-theory-practice.md)  
+→ See also: [Political Ecology Track](tracks/political-ecology.md) — deepens the justice, power, and governance dimensions of conservation introduced here

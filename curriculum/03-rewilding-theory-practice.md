@@ -315,4 +315,5 @@ Drawing on Torres et al. (2018) and Pettorelli et al. (2018):
 
 ---
 
-→ Next: [Module 4: Landscape Ecology & Spatial Analysis](04-landscape-ecology-spatial-analysis.md)
+→ Next: [Module 4: Landscape Ecology & Spatial Analysis](04-landscape-ecology-spatial-analysis.md)  
+→ See also: [Political Ecology Track](tracks/political-ecology.md) — Unit C covers the political ecology of restoration and rewilding (land politics, ecological labor, baseline contestation)

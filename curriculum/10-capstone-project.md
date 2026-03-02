@@ -104,4 +104,16 @@ A capstone is considered complete when it includes:
 
 ---
 
+## Beyond the Capstone: Applied Product Development
+
+If you're interested in turning your ecological expertise into a product that does public good and generates modest passive income, continue to Tier 4:
+
+- [Module 12: The Business Side of Restoration and Rewilding](12-business-of-rewilding.md) — Market landscape, revenue models, and conservation entrepreneurship
+- [Module 13: Personal Rewilding Product — Concept to MVP](13-rewilding-product-development.md) — Structured scaffolding from idea to working prototype
+
+Tier 4 is designed to be pursued after (or alongside the final stages of) the capstone. It synthesizes everything from Modules 1–10 into an applied direction.
+
+---
+
+→ Next: [Module 12: Business of Rewilding](12-business-of-rewilding.md)  
 → Return to [Main Curriculum](../README.md)

@@ -278,4 +278,6 @@ This exercise directly integrates your PSCI expertise with your ecological knowl
 
 ---
 
-→ Next: [Electives & Specializations](09-electives.md)
+→ Next: [Electives & Specializations](09-electives.md)  
+→ See also: [Political Ecology Track](tracks/political-ecology.md) — extends the governance and justice themes from this module into the political ecology canon, conservation-conflict analysis, and quantitative political ecology  
+→ See also: [PSCI-Ecology Concept Bridge](../resources/psci-ecology-bridge.md) — maps your political science concepts onto ecological equivalents

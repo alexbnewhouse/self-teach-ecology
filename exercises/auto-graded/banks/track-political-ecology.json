@@ -1,0 +1,188 @@
+{
+  "title": "Track Checkpoint: Political Ecology",
+  "module": "Track: Political Ecology",
+  "pass_threshold": 0.72,
+  "questions": [
+    {
+      "id": "TPE-1",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which text is widely regarded as the standard introductory textbook for political ecology?",
+      "choices": [
+        "Robbins, *Political Ecology: A Critical Introduction*",
+        "Primack, *Essentials of Conservation Biology*",
+        "Ostrom, *Governing the Commons*",
+        "Scheffer, *Critical Transitions in Nature and Society*"
+      ],
+      "answer": "Robbins, *Political Ecology: A Critical Introduction*",
+      "explanation": "Robbins (2019, 3rd ed.) is the canonical introductory text for political ecology as a discipline."
+    },
+    {
+      "id": "TPE-2",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Political ecology emerged primarily as a critique of what earlier approach?",
+      "choices": [
+        "Apolitical ecology — explanations of environmental degradation that ignore power relations",
+        "Deep ecology — radical environmentalism",
+        "Conservation biology — species-centered conservation",
+        "Landscape ecology — spatial pattern analysis"
+      ],
+      "answer": "Apolitical ecology — explanations of environmental degradation that ignore power relations",
+      "explanation": "Political ecology arose to challenge Malthusian and technocratic explanations that ignored political economy and power."
+    },
+    {
+      "id": "TPE-3",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select the key thesis clusters identified by Robbins in political ecology:",
+      "choices": [
+        "Degradation and marginalization",
+        "Environmental conflict",
+        "Conservation and control",
+        "Environmental identity and social movements",
+        "Optimal foraging theory",
+        "Maximum sustained yield"
+      ],
+      "answer": [
+        "Degradation and marginalization",
+        "Environmental conflict",
+        "Conservation and control",
+        "Environmental identity and social movements"
+      ],
+      "explanation": "These are the four main thesis clusters that organize the major research programs in political ecology (Robbins 2019)."
+    },
+    {
+      "id": "TPE-4",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Blaikie and Brookfield's 'Land Degradation and Society' (1987) is foundational because it:",
+      "choices": [
+        "Linked soil erosion and land degradation to political economy and social relations of production",
+        "Introduced species distribution modeling to political ecology",
+        "Established the IUCN Red List criteria",
+        "Proposed the concept of rewilding"
+      ],
+      "answer": "Linked soil erosion and land degradation to political economy and social relations of production",
+      "explanation": "Blaikie and Brookfield showed that land degradation is not just a biophysical problem but is shaped by social, economic, and political forces."
+    },
+    {
+      "id": "TPE-5",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "The concept of 'green militarization' refers to:",
+      "choices": [
+        "The use of military and paramilitary approaches to enforce conservation",
+        "Military use of renewable energy",
+        "Planting trees on military bases",
+        "Environmental regulations for defense contractors"
+      ],
+      "answer": "The use of military and paramilitary approaches to enforce conservation",
+      "explanation": "Green militarization (Lunstrum 2014, Duffy 2014) describes the increasing use of military tactics, technologies, and personnel in anti-poaching and conservation enforcement."
+    },
+    {
+      "id": "TPE-6",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "In social-ecological network analysis, what does a 'scale mismatch' refer to?",
+      "choices": [
+        "A misalignment between the scale of ecological processes and the scale of governance institutions managing them",
+        "Using the wrong units of measurement in spatial analysis",
+        "When a map projection distorts area measurements",
+        "A sampling error in ecological surveys"
+      ],
+      "answer": "A misalignment between the scale of ecological processes and the scale of governance institutions managing them",
+      "explanation": "Scale mismatches (Sayles & Baggio 2017) occur when governance jurisdictions do not align with the spatial or temporal extent of ecological processes, leading to management failures."
+    },
+    {
+      "id": "TPE-7",
+      "type": "multi_select",
+      "points": 2,
+      "prompt": "Select authors who have written about the intersection of conservation and political violence/securitization:",
+      "choices": [
+        "Rosaleen Duffy",
+        "Elizabeth Lunstrum",
+        "Bram Büscher",
+        "Robert MacArthur",
+        "Marten Scheffer",
+        "Charles Darwin"
+      ],
+      "answer": [
+        "Rosaleen Duffy",
+        "Elizabeth Lunstrum",
+        "Bram Büscher"
+      ],
+      "explanation": "Duffy (2014), Lunstrum (2014), and Büscher & Ramutsindela (2016) are leading scholars on conservation violence, green militarization, and the securitization of nature."
+    },
+    {
+      "id": "TPE-8",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Nancy Peluso's work on access theory and extraction in Kalimantan contributed to political ecology by:",
+      "choices": [
+        "Showing how state and local power relations shape who benefits from and who is harmed by resource extraction",
+        "Developing the first species distribution model for tropical forests",
+        "Creating the IUCN protected area categories",
+        "Inventing the concept of ecosystem services"
+      ],
+      "answer": "Showing how state and local power relations shape who benefits from and who is harmed by resource extraction",
+      "explanation": "Peluso (1992, 2003 with Ribot on access theory) demonstrated that formal property rights alone do not determine resource access — power relations, social identity, and institutional arrangements are critical."
+    },
+    {
+      "id": "TPE-9",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Which concept from your PSCI complex systems background maps MOST directly onto ecological 'regime shifts'?",
+      "choices": [
+        "Political regime transitions and critical junctures (nonlinear state changes with path dependence)",
+        "Rational choice theory",
+        "Median voter theorem",
+        "Iron triangles in policy"
+      ],
+      "answer": "Political regime transitions and critical junctures (nonlinear state changes with path dependence)",
+      "explanation": "Both political regime transitions and ecological regime shifts involve nonlinear dynamics, threshold effects, hysteresis, and path dependence. See the PSCI-Ecology Concept Bridge document."
+    },
+    {
+      "id": "TPE-10",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "Büscher and Fletcher's 'The Conservation Revolution' (2020) argues for:",
+      "choices": [
+        "Moving beyond both fortress conservation and neoliberal conservation toward 'convivial conservation'",
+        "Expanding military enforcement of protected areas",
+        "Privatizing all conservation land",
+        "Abandoning conservation goals entirely"
+      ],
+      "answer": "Moving beyond both fortress conservation and neoliberal conservation toward 'convivial conservation'",
+      "explanation": "Büscher and Fletcher propose 'convivial conservation' as an alternative that moves beyond both state-exclusionary and market-based models, emphasizing justice and democratic engagement."
+    },
+    {
+      "id": "TPE-11",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "A quantitative political ecologist studying conservation governance would most likely use which combination of methods?",
+      "choices": [
+        "Social-ecological network analysis + NLP of policy documents",
+        "Only qualitative interviews",
+        "Only laboratory experiments",
+        "Only remote sensing"
+      ],
+      "answer": "Social-ecological network analysis + NLP of policy documents",
+      "explanation": "Quantitative political ecology combines computational social science methods (network analysis, NLP, spatial analysis) with political ecology theory to analyze governance, power, and environmental outcomes."
+    },
+    {
+      "id": "TPE-12",
+      "type": "multiple_choice",
+      "points": 1,
+      "prompt": "The concept of 'fortress conservation' refers to:",
+      "choices": [
+        "Conservation approaches that exclude local people from protected areas, often by force",
+        "Building physical walls around nature reserves",
+        "Using military-grade fencing for wildlife corridors",
+        "Conservation strategies focused on castle ruins as habitat"
+      ],
+      "answer": "Conservation approaches that exclude local people from protected areas, often by force",
+      "explanation": "Fortress conservation describes exclusionary protected area management that prioritizes wildlife over local human communities, often resulting in displacement and conflict (Brockington 2002)."
+    }
+  ]
+}
