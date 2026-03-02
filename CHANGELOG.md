@@ -2,6 +2,28 @@
 
 All notable changes to this curriculum are documented here.
 
+## [1.3.1] - 2025-06-19
+
+### Changed
+
+- **Module 1: Foundations of Ecology** fully reworked into a comprehensive course module (271 → 516 lines):
+  - Added Preamble tailoring content to PSCI/DS background (matching Modules 5 and 8 pattern)
+  - Added Study Guide with 10-week pacing schedule, reading strategy, and video lecture recommendations (Yale EEB 122, Crash Course, MIT OCW, Khan Academy, SFI Complexity Explorer)
+  - Added PSCI/DS Connection callouts for every unit linking ecology to the learner's existing expertise
+  - Added per-unit Discussion Questions (3–4 per unit)
+  - Added Exercise 1.0 (History & Scope reflection essay) — Unit 1.1 previously had no exercise
+  - Added Exercise 1.5 (Island Biogeography & Fragmentation Analysis) — Unit 1.6 previously had no exercise
+  - Expanded all existing exercises with more steps, explicit deliverables, and PSCI connections
+  - Added new Learning Objective 7 (interdisciplinary bridges)
+  - Expanded readings in all units: added introductory texts for non-biologists, Chesson coexistence theory, Bascompte mutualistic networks, Scheffer regime shifts, Whittaker/Ricketts/Haddad biogeography, and more
+  - Expanded Key Concepts in all units (added Allee effects, functional responses, metacommunity theory, BEF, matrix ecology, etc.)
+  - Expanded Comprehension Check from 7 to 10 questions
+  - Rewrote Synthesis Prompt to leverage PSCI/DS background
+  - Expanded Self-Evaluation Rubric from 4 to 5 criteria (added Interdisciplinary Bridges)
+  - Added Supplementary Resources section: online simulations, key journals, cross-references to other modules and resources
+  - Added 7th learning objective on structural parallels between ecological and political-social systems
+  - Benchmark mapping expanded from generic to specific course codes
+
 ## [1.3.0] - 2026-03-02
 
 ### Added
